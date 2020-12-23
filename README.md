@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Jackson Template</title>
+	<title>Lauri Peterson</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -58,7 +58,7 @@
 			<div class="text-center">
 				<div class="author-img" style="background-image: url(images/about.jpg);"></div>
 				<h1 id="colorlib-logo"><a href="index.html">Jackson Ford</a></h1>
-				<span class="position"><a href="#">UI/UX/Designer</a> in Philippines</span>
+				<span class="position"><a href="#">PhD Candidate in Political Science</span>
 			</div>
 			<nav id="colorlib-main-menu" role="navigation" class="navbar">
 				<div id="navbar" class="collapse">
@@ -117,9 +117,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 					   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
 					   				<div class="slider-text-inner">
 					   					<div class="desc">
-						   					<h1>I am <br>a Designer</h1>
-												<h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2>
-												<p><a class="btn btn-primary btn-learn">View Portfolio <i class="icon-briefcase3"></i></a></p>
+						   					<h1>Lauri Peterson</h1>
+												<h2>PhD Candidate in Political Science target="_blank">colorlib.com</a></h2>
+												<p><a class="btn btn-primary btn-learn">View CV <i class="icon-briefcase3"></i></a></p>
 											</div>
 					   				</div>
 					   			</div>
@@ -138,9 +138,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 								<div class="col-md-12">
 									<div class="about-desc">
 										<span class="heading-meta">About Us</span>
-										<h2 class="colorlib-heading">Who Am I?</h2>
-										<p><strong>Hi I'm Jackson Ford</strong> On her way she met a copy. The copy warned the Little Blind Text, that where it came from it would have been rewritten a thousand times and everything that was left from its origin would be the word "and" and the Little Blind Text should turn around and return to its own, safe country.</p>
-										<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+										<h2 class="colorlib-heading"></h2>
+										<p><strong>I am PhD Candidate in Political Science at Uppsala University working on climate policy and sustainability. I received my M.A. at Central European University in 2013.</p>
+										<p>My research has been published in <i>World Development</i>, <i>Journal of Human Rights and the Environment</i> and <i>Social Indicators Research</i> </p>
+										<p>I enjoy hiking and outdoor activities.</p>
 									</div>
 								</div>
 							</div>
